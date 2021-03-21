@@ -1,0 +1,22 @@
+[
+    {   "id": 1,
+        "passType":"CHILDREN PASS",
+        "price": 50,
+        "imgUrl":"https://ibb.co/VpkpzzP"
+},
+{   "id": 2,
+    "passType":"PENSIONER PASS",
+    "price": 100,
+    "imgUrl":"./Images/bg-pensioner-pass.png"
+
+},
+{   "id": 3,
+    "passType":"YOUTH PASS",
+    "price": 150,
+    "imgUrl":"./Images/bg-youth-pass.png"
+},
+{   "id": 4,
+    "passType":"ADULT PASS",
+    "price": 200,
+    "imgUrl":"./Images/bg-adult-pass.png"
+}]

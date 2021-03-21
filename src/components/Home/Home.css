@@ -1,0 +1,13 @@
+.bg-img-home {
+    background-image: url(../Images/bg-image-home.png); 
+    height: 100vh;
+    width: 100vw;   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo-size{
+    height: 80px;
+    width: 100px;
+}
