@@ -1,6 +1,6 @@
 # React Project : Dhaka Metro Rail
 
-This project is developed based on intermediate level of knowledge using React, React DOM, Firebase, bootstrap, fontawesome.
+This project is developed based on intermediate level of knowledge using React, React DOM, Firebase, Bootstrap, Fontawesome.
 
 # Live site :
 
