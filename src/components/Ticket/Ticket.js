@@ -1,5 +1,4 @@
 import React from 'react';
-import './Ticket.css';
 import {useHistory} from 'react-router-dom';
 
 
