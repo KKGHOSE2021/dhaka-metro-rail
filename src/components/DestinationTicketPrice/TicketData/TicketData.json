@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1,
+        "name" : "Child",
+        "people" : 1,
+        "price" : 50,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Child",
+        "people" : 2,
+        "price" : 90,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Child",
+        "people" : 3,
+        "price" : 120,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Pensioner",
+        "people" : 1,
+        "price" : 100,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Pensioner",
+        "people" : 2,
+        "price" : 180,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 6,
+        "name" : "Pensioner",
+        "people" : 3,
+        "price" : 250,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 7,
+        "name" : "Youth",
+        "people" : 1,
+        "price" : 150,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 8,
+        "name" : "Youth",
+        "people" : 2,
+        "price" : 280,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 9,
+        "name" : "Youth",
+        "people" : 3,
+        "price" : 400,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 10,
+        "name" : "Adult",
+        "people" : 1,
+        "price" : 200,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 11,
+        "name" : "Adult",
+        "people" : 2,
+        "price" : 380,
+        "img" : "./tickets.png"
+    },
+    {
+        "id" : 12,
+        "name" : "Adult",
+        "people" : 3,
+        "price" : 550,
+        "img" : "./tickets.png"
+    }
+]

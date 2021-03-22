@@ -33,12 +33,12 @@ function App() {
           <Route path="/createAccount">
             <CreateAccount />
           </Route>
-          <PrivateRoute path="/destination/:id">
+          <PrivateRoute path="/destination/:price">
             <Destination />
           </PrivateRoute>
-          <PrivateRoute path="/destinationTicketPrice">
+          <Route path="/destinationTicketPrice/:price">
             <DestinationTicketPrice />
-          </PrivateRoute>
+          </Route>
           <Route path="/">
             <Home />
           </Route>

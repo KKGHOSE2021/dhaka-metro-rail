@@ -11,7 +11,7 @@ const Header = () => {
   
     return (
         <div className="container">
-            <div className="row pt-3 justify-content-between">
+            <div className="row pt-3 pb-2 justify-content-between">
                 <div className="col-md-1">
                     <img className="logo" src={logoImg} alt="" srcset=""/>
                 </div>
@@ -23,6 +23,7 @@ const Header = () => {
                     <Link to="/destination" className="nav-link active text-primary fw-bold">{loggedInUser ? loggedInUser.name : text}</Link>                 
                 </div>
             </div>
+            <hr/>
         </div>
 
 

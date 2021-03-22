@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import Background from '../Images/bg-image-home.png';
 import './Home.css';
 import data from '../FakeData/FakeData.json';
 import Ticket from '../Ticket/Ticket';
-import logoImg from '../Images/logo-img.png';
 
 const Home = () => {
     const [tickets, setTickets] = useState([]);
@@ -12,7 +10,7 @@ const Home = () => {
     }, [])
     return (
             <div className="container-fluid">
-                <div className="container">
+                <div className="container bg-img-home">
                     <div className="row mt-5"> 
                         {tickets.map(ticket => <Ticket ticket={ticket}/>)}                    
                     </div>  

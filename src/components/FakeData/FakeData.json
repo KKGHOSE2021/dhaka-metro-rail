@@ -2,21 +2,21 @@
     {   "id": 1,
         "passType":"CHILDREN PASS",
         "price": 50,
-        "imgUrl":"https://ibb.co/VpkpzzP"
+        "imgUrl":"https://ibb.co/Z80Z5Sb"
 },
 {   "id": 2,
     "passType":"PENSIONER PASS",
     "price": 100,
-    "imgUrl":"./Images/bg-pensioner-pass.png"
+    "imgUrl":"https://ibb.co/fYYTk2Q"
 
 },
 {   "id": 3,
     "passType":"YOUTH PASS",
     "price": 150,
-    "imgUrl":"./Images/bg-youth-pass.png"
+    "imgUrl":"https://ibb.co/pQr0MM6"
 },
 {   "id": 4,
     "passType":"ADULT PASS",
     "price": 200,
-    "imgUrl":"./Images/bg-adult-pass.png"
+    "imgUrl":"https://ibb.co/PC5ZN39"
 }]
