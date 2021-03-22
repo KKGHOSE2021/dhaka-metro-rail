@@ -41,7 +41,7 @@ function App() {
           </Route>
           <Route path="/">
             <Home />
-          </Route>
+          </Route>  
         </Switch>   
     </Router>
     </UserContext.Provider>
