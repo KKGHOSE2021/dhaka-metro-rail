@@ -6,7 +6,7 @@ This project is developed based on intermediate level of knowledge using React, 
 
 Please visit the following link for live site:
 
-## Site Description: Total 5 pages - Home, Destination, Contact, Buy Pass, Login (Hidden)
+## Site Description: 
 
 # Home page : 
 Home page contains four metro rail ticket pass based on different age groups, such as, Children, Pensioner, Youth and Adult pass. Once you click on 'Buy Now' button in any of the pass, you will be redirected to login page.
@@ -19,7 +19,7 @@ You also can logged in using 'Google sign in' button if you have an google accou
 If you don't have any account,  no worries! You will be able to create a new account.
 
 # Destination page :
-Please enter your start of journey below the 'Pick From', and your end of journey below the 'Pick To'. Then click the 'Search' button. This will allow you to purchase your desired ticket.
+Please enter your start of journey below the 'Pick From', and your end of journey below the 'Pick To'. Then click the 'Search' button. This will allow you to purchase your desired ticket and will redirect you to the DestinationTicketPrice page.
 
 ## Happy Journey!
 
